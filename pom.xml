@@ -5,6 +5,10 @@
     <groupId>com.chenx</groupId>
     <artifactId>spring-cloud-action</artifactId>
     <version>1.0.0</version>
+    <packaging>pom</packaging>
     <name>spring-cloud-action</name>
     <description>spring-cloud-action</description>
+    <modules>
+        <module>spring-cloud-fusing/custom-breaker</module>
+    </modules>
 </project>
