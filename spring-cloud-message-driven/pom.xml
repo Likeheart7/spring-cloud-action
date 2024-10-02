@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.chenx</groupId>
+    <artifactId>spring-cloud-message-driven</artifactId>
+    <version>1.0.0</version>
+    <name>spring-cloud-message-driven</name>
+    <description>Spring和Spring Cloud对事件驱动的支持</description>
+</project>
